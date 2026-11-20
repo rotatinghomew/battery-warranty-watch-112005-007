@@ -1,0 +1,3 @@
+action_id,vehicle_id,started_at,finished_at,action,result
+A001,V001,2026-09-10T08:00:00Z,2026-09-10T12:00:00Z,inspection,normal
+A002,V003,2026-09-12T08:00:00Z,,software_update,pending

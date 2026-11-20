@@ -1,0 +1,5 @@
+event_id,vehicle_id,at,cycle_count,temp_c,fast_charge_ratio,signal_quality
+T001,V001,2026-09-01T10:00:00Z,420,31.2,0.61,good
+T002,V001,2026-09-08T10:00:00Z,438,35.1,0.72,good
+T003,V002,2026-09-08T10:00:00Z,390,,0.40,missing_temp
+T004,V003,2026-09-08T10:00:00Z,280,29.5,0.20,good
